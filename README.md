@@ -4,11 +4,11 @@
 *Institute of Engineering and Technology, DAVV*  
 Information Technology Bachelors, Indore  
 CGPA: 8.56  
-2020 - June 2024
+Oct 2020 - June 2024
 
 ## Experience
 *Tally Solutions Pvt. Ltd. | SDE-Intern Remote*  
-Nov 2023 - Jan 2024  
+Oct 2023 - Jan 2024  
 - Contributed to the development of a non-call communication feature for Tally Solutions' hackathon app, focusing on frontend design and UI for messaging, feedback, and notification system.
 - Worked on integrating a robust rating and feedback mechanism for user interaction enhancement.
 - Directed end-to-end development of non-call communication features, ensuring seamless integration from requirements to architecture.

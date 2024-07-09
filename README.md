@@ -3,7 +3,7 @@
 ## Education
 *Institute of Engineering and Technology, DAVV*  
 Information Technology Bachelors, Indore  
-CGPA: 8.56  
+CGPA: 8.43  
 Oct 2020 - June 2024
 
 ## Experience
